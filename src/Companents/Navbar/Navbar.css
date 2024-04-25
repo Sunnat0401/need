@@ -1,0 +1,19 @@
+.navbar{
+    width: 100%;
+    background-color: rgb(9, 53, 92);
+    color: white;
+}
+.navbar .container , .navbar-lists{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .container {
+    padding: 10px 30px;
+}
+.navbar-lists{
+    list-style-type: none;
+}
+.navbar-list{
+    padding: 3px 40px;
+}
